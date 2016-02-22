@@ -8,4 +8,8 @@
 - To practice scrum agile developement 
 - To implement and learn the design patterns:  Observer Pattern, Facade pattern, Indirection and Information Expert, to assign responsibilities to appropriate software objects and attain structurally consistent code.
  
+# Planned Future Updates
+- To move from c# Web-Forms to ASP.net MVC 5
+- Add ORM layer Entity Framework
+- Make improvements in User Interface using Boostrap and Angular
 
