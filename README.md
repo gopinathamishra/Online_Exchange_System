@@ -5,7 +5,7 @@
 
 # Motivation
 - To learn Object Oriented Analysis and Design Concepts
-- To practice scrum agile developement 
+- To practice scrum agile development 
 - To implement and learn the design patterns:  Observer Pattern, Facade pattern, Indirection and Information Expert, to assign responsibilities to appropriate software objects and attain structurally consistent code.
  
 # Planned Future Updates
